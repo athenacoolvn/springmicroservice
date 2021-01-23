@@ -1,9 +1,10 @@
 
-  ${AnsiColor.GREEN}      ██ ${AnsiColor.RED} ██    ██  ████████  ███████    ██████  ████████  ████████  ███████
-  ${AnsiColor.GREEN}      ██ ${AnsiColor.RED} ██    ██     ██     ██    ██  ██          ██     ██        ██    ██
-  ${AnsiColor.GREEN}      ██ ${AnsiColor.RED} ████████     ██     ███████    █████      ██     ██████    ███████
-  ${AnsiColor.GREEN}██    ██ ${AnsiColor.RED} ██    ██     ██     ██             ██     ██     ██        ██   ██
-  ${AnsiColor.GREEN} ██████  ${AnsiColor.RED} ██    ██  ████████  ██        ██████      ██     ████████  ██    ██
+	${AnsiColor.GREEN}     ___      ${AnsiColor.RED}.___________.      ___      
+	${AnsiColor.GREEN}    /   \     ${AnsiColor.RED}|           |     /   \     
+	${AnsiColor.GREEN}   /  ^  \    ${AnsiColor.RED}`---|  |----`    /  ^  \    
+	${AnsiColor.GREEN}  /  /_\  \   ${AnsiColor.RED}    |  |        /  /_\  \   
+	${AnsiColor.GREEN} /  _____  \  ${AnsiColor.RED}    |  |       /  _____  \  
+	${AnsiColor.GREEN}/__/     \__\ ${AnsiColor.RED}    |__|      /__/     \__\ 
+                                                                       
 
-${AnsiColor.BRIGHT_BLUE}:: JHipster Registry ::
-:: http://jhipster.github.io ::${AnsiColor.DEFAULT}
+${AnsiColor.BRIGHT_BLUE}:: Registry ::
