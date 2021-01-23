@@ -1,0 +1,27 @@
+eureka:
+  client: 
+    service-url:
+      default-zone: http://localhost:8761/eureka
+server:
+  port: 28080
+
+spring:
+  application: 
+    name: auth-service
+  datasource:
+    username: sa
+    url: jdbc:h2:mem:testdb
+  h2:
+    console:
+      enabled: true  
+      path: /h2-console
+      settings:
+        trace: false
+        web-allow-others: false        
+keycloak:
+  server:
+    contextPath: /auth
+    adminUser:
+      username: admin
+      password: 123456
+    realmImportFile: realm-export.json
